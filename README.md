@@ -100,6 +100,9 @@ Assess the predictive model's performance.
 
 Test the model and compute accuracy through evaluation
 
+Link to Dashboard 
+
+https://app.powerbi.com/groups/me/insights/357fa118-b401-4f0b-ab0a-71e3191c33cd?insightsSource=Desktop&experience=power-bi
 
 
 
